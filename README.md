@@ -93,17 +93,24 @@ The analysis suggests that regular cleaning of solar panels based on environment
 ## References
 [1] A smart short-term solar power output prediction by artificial neural network Ali Erduman :A smart short-term solar power output
 prediction by artificial neural network | Electrical Engineering (springer.com)
+
 [2] Prediction of a Grid-Connected Photovoltaic Park’s Output with Artificial Neural Networks Trained by Actual Performance Data
 Elias Roumpakias and Tassos Stamatelos , doi: Prediction of a Grid-Connected Photovoltaic Park&rsquo;s Output with Artificial Neural Networks Trained by Actual Performance Data
 (mdpi.com)
+
 [3] Investigation of performance reduction of PV system due to environmental dust: Indoor and real-time analysis, : 
 https://www.sciencedirect.com/science/article/pii/S2772671124002377
+
 [4] A Review of Machine Learning-Based Photovoltaic Output Power Forecasting: Nordic Context, 
 https://ieeexplore.ieee.org/document/9729194
+
 [5]Power loss due to soiling on photovoltaic module with and without anti-soiling coating at different angle of incidence Bushra
 Mahnoor, Muhammad Noman, Muhammad Saad Rehan & Adnan Daud Khan List of issues International Journal of Green Energy (tandfonline.com)
+
 [6] Prediction of Photovoltaic Power by ANN Based on Various Environmental Factors in India 
 ,https://onlinelibrary.wiley.com/doi/10.1155/2022/4905980
+
 [7] Photovoltaic Power Prediction Using Analytical Models and Homer-Pro: Investigation of Results Reliability, 
 https://www.mdpi.com/2071-1050/15/11/8904
-[8] Weather and Pollution dataset from , https://power.larc.nasa.gov/data-access-viewer/ & https://airquality.cpcb.gov.in/ccr/#/logi
+
+[8] Weather and Pollution dataset from https://power.larc.nasa.gov/data-access-viewer/ & https://airquality.cpcb.gov.in/ccr/#/logi
